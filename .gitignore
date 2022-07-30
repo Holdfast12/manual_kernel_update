@@ -1,0 +1,5 @@
+*.hwm
+*.pwd
+*.pwi
+*.box
+/packer/packer_cache
